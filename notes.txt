@@ -1,2 +1,3 @@
 My first Git project
 Git tracks project history.
+A commit records a meaningful project state.
