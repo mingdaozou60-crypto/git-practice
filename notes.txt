@@ -3,3 +3,4 @@ Git tracks project history.
 A commit records a meaningful project state.
 The working tree contains the files I am editing.
 The staging area stores the proposed next snapshot.
+Git diff can summarize current changes.
