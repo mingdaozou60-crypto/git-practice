@@ -5,3 +5,4 @@ The working tree contains the files I am editing.
 The staging area stores the proposed next snapshot.
 Git diff can quickly summarize current changes.
 Git push uploads local commits to GitHub.
+Each clone has its own local Git state.
