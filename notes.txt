@@ -6,3 +6,4 @@ The staging area stores the proposed next snapshot.
 Git diff can quickly summarize current changes.
 Git push uploads local commits to GitHub.
 Each clone has its own local Git state.
+A new commit moves only the current branch.
