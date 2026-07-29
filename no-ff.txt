@@ -1,1 +1,2 @@
 ﻿The --no-ff option preserves a merge node even when fast-forward is possible.
+A completed merge does not continuously synchronize branches.
