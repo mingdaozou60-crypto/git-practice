@@ -1,0 +1,1 @@
+﻿Fast-forward moves a branch pointer without creating a merge commit.
