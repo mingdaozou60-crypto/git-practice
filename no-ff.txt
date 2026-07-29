@@ -1,0 +1,1 @@
+﻿The --no-ff option preserves a merge node even when fast-forward is possible.
