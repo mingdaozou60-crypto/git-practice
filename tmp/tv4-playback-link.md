@@ -1,0 +1,1 @@
+[TV4 playback metadata](https://playback2.a2d.tv/play/11f536e1b4b98903f70c?service=tv4play&device=browser&protocol=hls%2Cdash&drm=widevine&browser=GoogleChrome&capabilities=live-drm-adstitch-2%2Cyospace3)
